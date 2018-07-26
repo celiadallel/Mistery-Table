@@ -113,3 +113,8 @@ th {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+/* ------------- Credits ---------- */
+.credits {
+  margin-top: 1em;
+}
