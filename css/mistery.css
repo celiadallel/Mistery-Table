@@ -1,0 +1,24 @@
+/* -------General styles ---------- */
+
+body {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  max-width: 100%;
+}
+
+main,
+footer {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  padding: 2em;
+  font-family: "Gaegu", cursive;
+  background-color: #fff;
+  font-size: 1.4em;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 2em;
+}
